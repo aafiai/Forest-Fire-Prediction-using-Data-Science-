@@ -1,1 +1,2 @@
 # Forest-Fire-Prediction-using-Data-Science-
+Implemented and evaluated various data science algorithms, including Random Forest Classifier, Naive Bayes Classifier, K-means Clustering, and Logistic Regression, to predict forest fires in Portugal. Analyzed algorithm performance to determine which methods provided the most accurate and precise results, contributing to improved predictive insights for forest fire management.
